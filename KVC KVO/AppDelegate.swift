@@ -44,3 +44,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+// https://hackernoon.com/kvo-kvc-in-swift-12f77300c387
+
